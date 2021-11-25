@@ -1,13 +1,7 @@
-### <div align="center"><h1>Olá! Eu sou a Thalita Severo!</h1>
+### <div align="center"><h3>Olá! Eu sou a Thalita Severo. Sou estudante e apaixonada por tecnologia!</h3>
   
-<body> 
-    <p> &#x1F60D; Iniciante e apaixonada por tecnologia</p>
-    <p> 📚 Estudante de ADS</p>
-    <p> 💻 Atualmente trabalho como Analista de Suporte </p>
-</body>
-
-##
-
+  ##
+  
 <div align="center">
   <a href="https://github.com/thalitasevero">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalitasevero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
