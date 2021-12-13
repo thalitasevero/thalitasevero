@@ -15,12 +15,8 @@
   <img align="center" alt="Thalita-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thalita-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thalita-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Thalita-mini" height="190" style="border-radius:60px;" src="https://media.discordapp.net/attachments/919989818547662921/919991157356896296/IMG-20211210-WA0021.jpg">
 </div>
+ 
   
-  
-  
-##
-  
-<br>
-<br>
-<h4>Em construção... 🏗️ 🔨</h3>
+  #
