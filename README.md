@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Olá! Eu sou a Thalita Severo!</h2>
-    <h4>Sou estudante de tecnologia, focada em desenvolvimento Web, e sou apaixonada por tecnologia!</h4>
+    <h4>Sou apaixonada por tecnologia e por aprender coisas novas. Atualmente sou desenvolvedora Web Full Stack, e possuo experiância com ASP.NET, Vue JS, além de outras ferramentas!</h4>
 </div>
   
 <img align="center" alt="Thalita" height="500" style="border-radius:100px;" src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif">
